@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+}
+
+.sidebar {
+  min-width: 300px;
+}
+
+.logo {
+  min-width: 200px;
+}
